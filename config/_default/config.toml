@@ -1,0 +1,20 @@
+baseURL = 'https://yhjs.org/'
+copyright = "Copyright © {year} yhjs.org, All Rights Reserved."
+languageCode = 'zh'
+theme = 'lowkey'
+title = '硬核技术'
+enableRobotsTXT = true
+
+# List Config
+summaryLength= 15
+paginate = 16
+
+[markup.highlight]
+      codeFences = false
+      guessSyntax = false
+      hl_Lines = ""
+      lineNoStart = 1
+      lineNos = false
+      lineNumbersInTable = false
+      tabWidth = 4
+      noClasses = false

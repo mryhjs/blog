@@ -576,9 +576,6 @@ video {
 .mb-5 {
   margin-bottom: 1.25rem;
 }
-.mt-2 {
-  margin-top: 0.5rem;
-}
 .block {
   display: block;
 }
@@ -749,10 +746,6 @@ video {
 }
 .leading-snug {
   line-height: 1.375;
-}
-.text-emerald-700 {
-  --tw-text-opacity: 1;
-  color: rgb(4 120 87 / var(--tw-text-opacity));
 }
 .text-gray-500 {
   --tw-text-opacity: 1;
@@ -933,10 +926,6 @@ span.begin-task-list + ul {
 .hover\:bg-gray-200:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
-}
-.hover\:text-emerald-600:hover {
-  --tw-text-opacity: 1;
-  color: rgb(5 150 105 / var(--tw-text-opacity));
 }
 .hover\:text-gray-500:hover {
   --tw-text-opacity: 1;

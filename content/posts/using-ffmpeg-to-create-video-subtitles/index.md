@@ -94,4 +94,4 @@ Dialogue: 0,0:00:40.68,0:00:43.62,Default,,0,0,0,,thousand yard stare and said, 
 
 * [script.bat](script.bat)
 
-使用方法是：下载 script.bat 文件，然后准备你的视频文件和字幕文件(srt或者ass)，确保字幕文件名称和视频文件名称保持一致。然后将视频文件用鼠标托放到 script.bat 程序图标上即可自动运行。
+使用方法是：下载 script.bat 文件，然后准备好视频文件和字幕文件(srt或者ass)，确保字幕文件名称和视频文件名称保持一致。然后将视频文件用鼠标托放到 script.bat 程序图标上即可自动运行。
